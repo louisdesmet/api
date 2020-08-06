@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cf17c0d5-ef2a-4451-8543-f50669dde57c" name="Default Changelist" comment="" />
+    <list default="true" id="cf17c0d5-ef2a-4451-8543-f50669dde57c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/OutcomeController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Http/Resources/Outcome.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/AuthController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/AuthController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api.php" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +21,9 @@
     <execution>
       <executable />
     </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -120,12 +131,14 @@
   </component>
   <component name="ProjectId" id="1TiSMlf5y7wE39QuCmqpKIJUbeR" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/skedify/api-primary" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../web" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\dev\repos\api\app\Http\Resources" />
       <recent name="C:\dev\repos\api\app\Http\Controllers" />
     </key>
   </component>
@@ -185,10 +198,35 @@
       <workItem from="1577412726054" duration="839000" />
       <workItem from="1577565137403" duration="11461000" />
       <workItem from="1577699818661" duration="25000" />
+      <workItem from="1580051411877" duration="3495000" />
+      <workItem from="1580760226663" duration="57000" />
+      <workItem from="1580762035364" duration="832000" />
+      <workItem from="1582327056056" duration="9000" />
+      <workItem from="1582329091717" duration="1026000" />
+      <workItem from="1582462334069" duration="1748000" />
+      <workItem from="1582565573443" duration="1209000" />
+      <workItem from="1586738905659" duration="18000" />
+      <workItem from="1593536019074" duration="1430000" />
+      <workItem from="1593860536032" duration="934000" />
+      <workItem from="1593864889364" duration="94000" />
+      <workItem from="1593865994423" duration="292000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
